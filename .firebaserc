@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "mapregistry": {
+      "hosting": {
+        "mapregistry4": [
+          "mapregistry"
+        ]
+      }
+    }
+  }
+}
